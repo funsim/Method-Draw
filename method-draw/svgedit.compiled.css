@@ -330,7 +330,7 @@ button.cancel,input.Cancel,input.cancel,input.jGraduate_Cancel,button.cancel{-we
 .touch .contextMenu .shortcut{display:none}
 .touch .shortcut{display:none}
 .contextMenu A{-moz-user-select:none;-webkit-user-select:none;color:#222;text-decoration:none;display:block;line-height:20px;height:20px;background-position:6px center;background-repeat:no-repeat;outline:0;padding:0 15px 1px 20px}
-.touch .contextMenu A{padding:0 15px;border-bottom:#;font-weight:bold;border-top:solid 1px #e3e3e3;height:40px;line-height:40px;min-width:200px}
+.touch .contextMenu A{padding:0 15px;font-weight:bold;border-top:solid 1px #e3e3e3;height:40px;line-height:40px;min-width:200px}
 .contextMenu LI.hover A{background-color:#2e5dea;color:white;cursor:default}
 .contextMenu LI.disabled A{color:#999}
 .touch .contextMenu LI.disabled A{display:none}
