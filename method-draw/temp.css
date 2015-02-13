@@ -45,23 +45,23 @@ table#svg_editor .jPicker {
 }
 
 #svg_editor .jPicker div.Map {
-
+    
   border:  solid #000 1px;
-
+     
   cursor: crosshair;
-
+    
   height: 260px;
-
+    
   margin: 0;
-
+    
   overflow: hidden;
-
+    
   padding: 0;
-
+    
   position: relative;
-
+    
   width: 260px;
-
+    
 }
 #svg_editor .jPicker div[class="Map"] {
     height: 256px;
@@ -248,9 +248,9 @@ table#svg_editor .jPicker {
   width: 62px;
   margin: 0 auto;
 }
-/*
+/* 
  * jGraduate Default CSS
- *
+ * 
  * Copyright (c) 2010 Jeff Schiller
  * http://blog.codedread.com/
  *
@@ -285,7 +285,7 @@ li.jGraduate_tab_current {
 	display: none;
 }
 
-.jGraduate_gradPick {
+.jGraduate_gradPick {	
 	display: none;
 	overflow: visible;
 /*	position: relative;*/
@@ -305,7 +305,7 @@ div.jGraduate_Swatch {
 }
 div.jGraduate_GradContainer {
 	border: solid #000 1px;
-	background-image: url(../images/map-opacity.png);
+	background-image: url(../images/map-opacity.png); 
 	background-position: 0px 0px;
 	height: 256px;
 	width: 256px;
@@ -433,13 +433,13 @@ div.jGraduate_LightBox {
 div.jGraduate_stopPicker {
   position: absolute;
   display: none;
-  background:
+  background: 
   white;
   padding: 20px;
   border-radius: 3px;
   width: 530px;
   height: 300px;
-  box-shadow: 0 5px 25px
+  box-shadow: 0 5px 25px 
   black;
 }
 

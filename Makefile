@@ -28,7 +28,7 @@ JS_FILES=\
   src/method-draw.js \
   lib/jquery-draginput.js \
   lib/contextmenu.js \
-  lib/jquery-ui/jquery-ui-1.8.17.custom.min.js \
+  lib/jquery-ui/jquery-ui.js \
   lib/jgraduate/jpicker.min.js \
   lib/mousewheel.js \
 	extensions/ext-eyedropper.js \
