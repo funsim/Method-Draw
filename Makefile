@@ -39,6 +39,7 @@ JS_FILES=\
 
 CSS_FILES=\
 	lib/jgraduate/css/jPicker.css \
+	lib/jquery-ui/css/jquery.ui.dialog.css \
   lib/jgraduate/css/jgraduate.css \
   css/method-draw.css \
 
